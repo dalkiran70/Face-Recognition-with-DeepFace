@@ -9,7 +9,7 @@ My other works :
 # Face Recognition with DeepFace Ensemble Learning
   The model is open source model; source code and GitHub page [link](https://github.com/serengil/deepface). The pipeline of the model is: Face Detection, Face Alignment, Face Representation, and Face Verification. I will explain each part of the pipeline below. 
 ## Face Detection 
-	The first part of the pipeline is face detection. To detect faces, the model utilizes a neural network called ResNet Single Shot-Multibox Detector (SSD) with OpenCV library. The basis of the ResNet SSD is VGG which will be explained later.  
+  The first part of the pipeline is face detection. To detect faces, the model utilizes a neural network called ResNet Single Shot-Multibox Detector (SSD) with OpenCV library. The basis of the ResNet SSD is VGG which will be explained later. 
 ## Face Alignment
   The second part of the pipeline is face alignment. To align faces, [OpenCV’s haar cascade](https://github.com/opencv/opencv/tree/master/data/haarcascades) method is used. Haar cascade method can be used to align eyes and frontal face. Haar cascade can process 6.50 frames per second.
 ## Face representation
