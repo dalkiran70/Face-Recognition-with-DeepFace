@@ -1,6 +1,6 @@
 Face recognition, which is becoming widespread and gaining importance gradually,  is one of the application areas of artificial intelligence. Face recognition systems are used in many places from public institutions to private organizations. However, due to pandemic, Covid 19, people wear masks and masked-face may not be recognized by current face recognition models. In this paper, I investigated whether current face recognition models are successful to recognize masked-face or not. 
 My other works : 
-1)  [For Face Recognition with FaceNet Encoding model with RMFRD](https://www.kaggle.com/muhammeddalkran/masked-unmasked-face-recogniti),<br/>
+1)  [For Face Recognition with FaceNet Encoding model with RMFRD](https://www.kaggle.com/muhammeddalkran/masked-unmasked-face-recognition),<br/>
 2)  [For Face Recognition with FaceNet Encoding model with SMFRD](https://www.kaggle.com/muhammeddalkran/face-recognition-with-lfw-smfrd),<br/>
 3)  [For Face Recognition with FaceNet Embedding and SVC’s Linear Kernel model with  RMFRD](https://www.kaggle.com/muhammeddalkran/masked-face-recognition-with-rmfrd),<br/> 
 4)  [For Face Recognition with FaceNet Embedding and SVC’s Linear Kernel model with SMFRD](https://www.kaggle.com/muhammeddalkran/masked-face-recognition-with-lfw-smfrd
